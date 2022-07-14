@@ -1,4 +1,4 @@
-# **How to use YOLOv6 ? – Best Tutorial Simple**
+# **YOLOv6 How to use ? – Best Tutorial Simple**
 
 *   [English Article](https://inside-machinelearning.com/en/use-yolov6/)
 *   [French Article](https://inside-machinelearning.com/utiliser-yolov6/)
